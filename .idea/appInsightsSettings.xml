@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.moengage.newsapp" />
+                  <option name="mobileSdkAppId" value="1:903161980694:android:a0c9e28d89a4891d10d237" />
+                  <option name="projectId" value="newsapp-e20a4" />
+                  <option name="projectNumber" value="903161980694" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
