@@ -14,11 +14,11 @@ import com.squareup.picasso.Picasso
 
 class NewsDetailActivity : AppCompatActivity() {
 
-    var title: String? = null
-    var author: String? = null
-    var content: String? = null
-    var imageURL: String? = null
-    var url: String? = null
+    private var title: String? = null
+    private var author: String? = null
+    private var content: String? = null
+    private var imageURL: String? = null
+    private var url: String? = null
     private lateinit var titleTV: TextView
     private lateinit var authorTV: TextView
     private lateinit var contentTV:TextView
